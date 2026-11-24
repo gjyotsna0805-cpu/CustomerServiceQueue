@@ -199,7 +199,7 @@ Through this project, I learned how to:
 
 ## 👩‍💻 Author
 
-**Jyotsna G.**
+**G.Jyotsna**
 
 🎓 B.Tech – Computer Science and Engineering
 
